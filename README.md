@@ -1,4 +1,4 @@
-# Made By DarkWarrior
+# Made By Ajal 
 ### This script will make your termux look better. Enjoy! ! 
 ![logo](logo.png)
 #### Installing
